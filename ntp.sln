@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntp", "ntp\ntp.csproj", "{9FDA0BED-C2F6-44FD-9765-67256180F336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klijent", "..\Klijent\Klijent\Klijent.csproj", "{FC7D04A4-70F2-4454-BC46-2405186E0BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDA0BED-C2F6-44FD-9765-67256180F336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDA0BED-C2F6-44FD-9765-67256180F336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDA0BED-C2F6-44FD-9765-67256180F336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDA0BED-C2F6-44FD-9765-67256180F336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7D04A4-70F2-4454-BC46-2405186E0BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7D04A4-70F2-4454-BC46-2405186E0BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7D04A4-70F2-4454-BC46-2405186E0BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7D04A4-70F2-4454-BC46-2405186E0BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A2B248A-E878-4268-8F8E-C772C8DA1B6C}
+	EndGlobalSection
+EndGlobal
